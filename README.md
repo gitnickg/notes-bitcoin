@@ -62,8 +62,8 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Bitcoin Magazine](https://bitcoinmagazine.com/)
 
 ### Additional Learning
-- [Collection of Resources](https://www.hope.com/)
-- [Saylor.org Free Bitcoin Course](https://learn.saylor.org/course/view.php?id=468)
+- [Collection of Resources](https://www.hope.com/) from Hope.com (MicroStrategy)
+- [Free Bitcoin Course](https://learn.saylor.org/course/view.php?id=468) from Saylor.org (MicroStrategy)
 
 ## Buy Bitcoin
 Exchanges where you can purchase Bitcoin.
