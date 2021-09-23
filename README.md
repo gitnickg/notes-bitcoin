@@ -2,7 +2,7 @@
 The following is a collection of notes and learnings that helped me understand Bitcoin & money. I hope it helps you too :)
 
 
-## What is Money?
+## Money, Currency and Economics
 When I first started learning about bitcoin, I found it helpful to understand the difference between ***Money*** & ***Currency***, the history behind them and economics.
 
 - [Hidden Secrets of Money](https://goldsilver.com/hidden-secrets/) by Mike Maloney
@@ -15,7 +15,7 @@ When I first started learning about bitcoin, I found it helpful to understand th
 - [Mises Institute](https://mises.org/) Information on Austrian Economics
 
 
-## What is bitcoin?
+## Bitcoin
 
 ### Bitcoin: A Peer-to-Peer Electronic Cash System
 
@@ -57,6 +57,8 @@ Where it all started. The paper that first introduced Bitcoin.
 - [The Bitcoin Standard Podcast](http://the-bitcoin-standard-podcast.castos.com/) by Dr. Saifedean Ammous
 - [Orange Pill Podcast](https://orangepill.buzzsprout.com/) by Max Keiser & Stacy Herbert
 
+### News
+- [Bitcoin Magazine](https://bitcoinmagazine.com/)
 
 ## Buy Bitcoin
 Exchanges where you can purchase Bitcoin.
