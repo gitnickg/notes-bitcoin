@@ -73,11 +73,13 @@ Where it all started. The paper that first introduced Bitcoin.
 Exchanges where you can purchase Bitcoin.
 - [Shakepay](https://shakepay.me/r/4070CTN) Buy and sell bitcoin with email money transfers from your bank.
 - [Netcoins](https://netcoins.app/r?ac=E3SBQR) Buy and sell bitcoin with email money transfers from your bank.
+- [Gemini](https://www.gemini.com/share/enwk9gxue) Buy, Sell and Exchange.
 - [Coinbase](https://www.coinbase.com/join/cspace) Buy, Sell and Exchange.
 - [Binance](https://www.binance.com/en/register?ref=KFSVT74J) Buy, Sell and Exchange.
 - [OKcoin](https://www.okcoin.com/join?channelId=600031269) Buy, Sell and Exchange.
-- [WealthSimple](https://my.wealthsimple.com/app/public/trade-referral-signup?code=F8AO7W) bitcoin, Stonks and banking services.
-- [BlockFi](https://blockfi.com/?ref=17dcc1e8) Earn interest.
+- [WealthSimple](https://my.wealthsimple.com/app/public/trade-referral-signup?code=F8AO7W) Bitcoin, Stonks and banking services.
+- [BlockFi](https://blockfi.com/?ref=17dcc1e8) Buy, Sell, Exchange and Earn interest.
+- [Kraken](https://www.kraken.com/) Buy, Sell and Exchange.
 
 
 ## Hodl Bitcoin
