@@ -36,6 +36,10 @@ Where it all started. The paper that first introduced Bitcoin.
 - [The Book of Satoshi: The Collected Writings of Bitcoin Creator Satoshi Nakamoto](https://www.goodreads.com/book/show/22619661-the-book-of-satoshi) by Phil Champagne
 - [Cryptoassests: The Investor's Guide to Bitcoin and Beyond](https://www.goodreads.com/book/show/36197082-cryptoassets) by Chris Burniske
 - [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.goodreads.com/book/show/21820378-mastering-bitcoin) by Andreas M. Antonopoulos
+- [Why Buy Bitcoin: Investing Today in the Money of Tomorrow](https://www.goodreads.com/book/show/50832128-why-buy-bitcoin) by Andy Edstrom
+- [Layered Money: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies](https://www.goodreads.com/book/show/56598876-layered-money) by Nik Bhatia
+- [Bitcoin: Sovereignty through mathematics](https://www.goodreads.com/book/show/45901895-bitcoin) by Knut Svanholm
+- [Bitcoin: Hard Money You Can't F*ck With: Why bitcoin will be the next global reserve currency](https://www.goodreads.com/book/show/56174095-bitcoin) by Jason A. Williams
 
 ### Videos
 - [Canadian Senate Testimony on Bitcoin](https://www.cpac.ca/en/programs/in-committee-from-the-senate-of-canada/episodes/35680928/?jwsource=cl) by Andreas M. Antonopoulos
