@@ -54,3 +54,8 @@ Where it all started. The paper that first introduced Bitcoin.
 - [BlockFi](https://blockfi.com/?ref=17dcc1e8) Earn interest.
 
 ## Hodl Bitcoin
+
+### Hardware Wallets
+- [Ledger](https://www.ledger.com/)
+- [Trezor](https://trezor.io/)
+- [ColdCard](https://coldcardwallet.com/)
