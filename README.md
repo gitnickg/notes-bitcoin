@@ -35,12 +35,12 @@ Where it all started. The paper that first introduced Bitcoin.
 - [What Bitcoin Did](https://www.youtube.com/c/WhatBitcoinDidPodcast)
 
 ### Podcasts
-- [Bitcoin Audible] by Guy Swann
-- [Unchained Podcast] by Laura Shin
-- [The Pomp Podcast] by Anthony “Pomp” Pompliano
-- [What Bitcoin Did Podcast] by Peter McCormack
-- [Tales from the Crypt: A Bitcoin Podcast] by Marty Bent
-- [Magic Internet Money - Bitcoin 101 With Brad Mills] by Brad Mills
-- [The Bitcoin Standard Podcast] by Dr. Saifedean Ammous
-- [Orange Pill Podcast] by Max Keiser & Stacy Herbert
+- [Bitcoin Audible](https://bitcoinaudible.com/) by Guy Swann
+- [Unchained Podcast](https://unchainedpodcast.com/) by Laura Shin
+- [The Pomp Podcast](https://anthonypompliano.com/podcast/) by Anthony “Pomp” Pompliano
+- [What Bitcoin Did Podcast](https://www.whatbitcoindid.com/) by Peter McCormack
+- [Tales from the Crypt: A Bitcoin Podcast](https://talesfromthecrypt.libsyn.com/) by Marty Bent
+- [Magic Internet Money - Bitcoin 101 With Brad Mills](https://magicinternetmoney.libsyn.com/website) by Brad Mills
+- [The Bitcoin Standard Podcast](http://the-bitcoin-standard-podcast.castos.com/) by Dr. Saifedean Ammous
+- [Orange Pill Podcast](https://orangepill.buzzsprout.com/) by Max Keiser & Stacy Herbert
 
