@@ -2,7 +2,7 @@
 The following is a collection of notes and learnings that helped me understand Bitcoin & money. I hope it helps you too :)
 
 ## What is Money?
-When I first started learning about bitcoin, I found it helpful to understand the difference between ***Money*** & ***Currency*** and the history behind them.
+When I first started learning about bitcoin, I found it helpful to understand the difference between ***Money*** & ***Currency***, the history behind them and economics.
 
 - [Hidden Secrets of Money](https://goldsilver.com/hidden-secrets/) by Mike Maloney
 - [The Soverign Individual: Mastering the Transition to the Information Age](https://www.goodreads.com/book/show/82256.The_Sovereign_Individual) by James Dale Davidson, William Rees-Mogg
