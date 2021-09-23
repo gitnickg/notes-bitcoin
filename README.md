@@ -4,7 +4,7 @@ The following is a collection of notes and learnings that helped me understand B
 ## What is Money?
 When I first started learning about bitcoin, I found it helpful to understand the difference between ***Money*** & ***Currency*** and the history behind them.
 
-[Mike Maloney’s Hidden Secrets of Money](https://goldsilver.com/hidden-secrets/) by Mike Maloney
+[Hidden Secrets of Money](https://goldsilver.com/hidden-secrets/) by Mike Maloney
 
 ## What is bitcoin?
 
