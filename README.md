@@ -13,6 +13,7 @@ When I first started learning about bitcoin, I found it helpful to understand th
 - [Basic Economics: A Citizen's Guide to the Economy](https://www.goodreads.com/book/show/3023.Basic_Economics) by Thomas Sowell
 - [Economics in One Lesson](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by Henry Hazlitt
 - [Mises Institute](https://mises.org/) Information on Austrian Economics
+- [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 
 
 ## Bitcoin
@@ -59,6 +60,10 @@ Where it all started. The paper that first introduced Bitcoin.
 
 ### News
 - [Bitcoin Magazine](https://bitcoinmagazine.com/)
+
+### Additional Learning
+- [Collection of Resources](https://www.hope.com/)
+- [Saylor.org Free Bitcoin Course](https://learn.saylor.org/course/view.php?id=468)
 
 ## Buy Bitcoin
 Exchanges where you can purchase Bitcoin.
