@@ -44,3 +44,13 @@ Where it all started. The paper that first introduced Bitcoin.
 - [The Bitcoin Standard Podcast](http://the-bitcoin-standard-podcast.castos.com/) by Dr. Saifedean Ammous
 - [Orange Pill Podcast](https://orangepill.buzzsprout.com/) by Max Keiser & Stacy Herbert
 
+## Step Two: Buy Bitcoin
+- [Shakepay](https://shakepay.me/r/4070CTN) Buy and sell bitcoin with email money transfers from your bank.
+- [Netcoins](https://netcoins.app/r?ac=E3SBQR) Buy and sell bitcoin with email money transfers from your bank.
+- [Coinbase](https://www.coinbase.com/join/cspace) Buy, Sell and Exchange.
+- [Binance](https://www.binance.com/en/register?ref=KFSVT74J) Buy, Sell and Exchange.
+- [OKcoin](https://www.okcoin.com/join?channelId=600031269) Buy, Sell and Exchange.
+- [WealthSimple](https://my.wealthsimple.com/app/public/trade-referral-signup?code=F8AO7W) bitcoin, Stonks and banking services.
+- [BlockFi](https://blockfi.com/?ref=17dcc1e8) Earn interest.
+
+## Step Three: Hodl Bitcoin
