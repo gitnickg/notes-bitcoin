@@ -1,6 +1,3 @@
-# notes-bitcoin
-collection of notes from bitcoin learnings
-
 # Bitcoin
 The following is a collection of notes and learnings that helped me understand Bitcoin. I hope it helps you too :)
 
