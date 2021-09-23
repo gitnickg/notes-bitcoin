@@ -1,6 +1,7 @@
 # Bitcoin & Money
 The following is a collection of notes and learnings that helped me understand Bitcoin & money. I hope it helps you too :)
 
+
 ## What is Money?
 When I first started learning about bitcoin, I found it helpful to understand the difference between ***Money*** & ***Currency***, the history behind them and economics.
 
@@ -12,6 +13,7 @@ When I first started learning about bitcoin, I found it helpful to understand th
 - [Basic Economics: A Citizen's Guide to the Economy](https://www.goodreads.com/book/show/3023.Basic_Economics) by Thomas Sowell
 - [Economics in One Lesson](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by Henry Hazlitt
 - [Mises Institute](https://mises.org/) Information on Austrian Economics
+
 
 ## What is bitcoin?
 
@@ -55,7 +57,9 @@ Where it all started. The paper that first introduced Bitcoin.
 - [The Bitcoin Standard Podcast](http://the-bitcoin-standard-podcast.castos.com/) by Dr. Saifedean Ammous
 - [Orange Pill Podcast](https://orangepill.buzzsprout.com/) by Max Keiser & Stacy Herbert
 
+
 ## Buy Bitcoin
+Exchanges where you can purchase Bitcoin.
 - [Shakepay](https://shakepay.me/r/4070CTN) Buy and sell bitcoin with email money transfers from your bank.
 - [Netcoins](https://netcoins.app/r?ac=E3SBQR) Buy and sell bitcoin with email money transfers from your bank.
 - [Coinbase](https://www.coinbase.com/join/cspace) Buy, Sell and Exchange.
@@ -64,9 +68,14 @@ Where it all started. The paper that first introduced Bitcoin.
 - [WealthSimple](https://my.wealthsimple.com/app/public/trade-referral-signup?code=F8AO7W) bitcoin, Stonks and banking services.
 - [BlockFi](https://blockfi.com/?ref=17dcc1e8) Earn interest.
 
+
 ## Hodl Bitcoin
 
 ### Hardware Wallets
 - [Ledger](https://www.ledger.com/)
 - [Trezor](https://trezor.io/)
 - [ColdCard](https://coldcardwallet.com/)
+
+### Software Wallets
+- [Bitcoin.org](https://bitcoin.org/en/choose-your-wallet) Choose your wallet helper
+- [Best Bitcoin Wallets](https://www.youtube.com/watch?v=QKOmyN287_o) by Dan Held
