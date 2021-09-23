@@ -11,7 +11,7 @@ When I first started learning about bitcoin, I found I it helpful to understand 
 
 ## Step One: What is bitcoin?
 
-###Bitcoin: A Peer-to-Peer Electronic Cash System
+### Bitcoin: A Peer-to-Peer Electronic Cash System
 
 Where it all started. The paper that first introduced Bitcoin.
 
@@ -19,14 +19,14 @@ Where it all started. The paper that first introduced Bitcoin.
 - Hosted on [bitcoin.org](https://bitcoin.org/en/bitcoin-paper)
 - [Getting Started with Bitcoin](https://bitcoin.org/en/getting-started)
 
-###Books
+### Books
 - [The Bitcoin Standard](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard) by Saifedean Ammous
 - [The Internet of Money](https://www.goodreads.com/book/show/31869077-the-internet-of-money) by Andreas M. Antonopoulos
 - [The Internet of Money Volume 2](https://www.goodreads.com/book/show/36804136-the-internet-of-money-volume-two) by Andreas M. Antonopoulos
 - [The Internet of Money Volume 3](https://www.goodreads.com/book/show/49002845-the-internet-of-money-volume-3) by Andreas M. Antonopoulos
 - [Bitcoin Billionaires](https://www.goodreads.com/book/show/41433284-bitcoin-billionaires) by Ben Mezrich
 
-###Videos
+### Videos
 - [Canadian Senate Testimony on Bitcoin](https://www.cpac.ca/en/programs/in-committee-from-the-senate-of-canada/episodes/35680928/?jwsource=cl) by Andreas M. Antonopoulos
 - [aantonop](https://www.youtube.com/c/aantonop)
 - [Crypto Daily](https://www.youtube.com/c/CryptoDaily)
@@ -37,7 +37,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Unchained Podcast](https://www.youtube.com/c/UnchainedPodcast)
 - [What Bitcoin Did](https://www.youtube.com/c/WhatBitcoinDidPodcast)
 
-###Podcasts
+### Podcasts
 [Bitcoin Audible] by Guy Swann
 [Unchained Podcast] by Laura Shin
 [The Pomp Podcast] by Anthony “Pomp” Pompliano
