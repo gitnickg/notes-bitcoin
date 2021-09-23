@@ -18,7 +18,7 @@ When I first started learning about bitcoin, I found it helpful to understand th
 
 Where it all started. The paper that first introduced Bitcoin.
 
-- Hosted in this [repo]
+- Hosted in this [repo](https://github.com/nickg902/notes-bitcoin/blob/main/bitcoin.pdf)
 - Hosted on [bitcoin.org](https://bitcoin.org/en/bitcoin-paper)
 - [Getting Started with Bitcoin](https://bitcoin.org/en/getting-started)
 
