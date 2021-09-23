@@ -64,6 +64,10 @@ Where it all started. The paper that first introduced Bitcoin.
 
 ### News
 - [Bitcoin Magazine](https://bitcoinmagazine.com/)
+- [Coin Telegraph](https://cointelegraph.com/)
+- [CoinDesk](https://www.coindesk.com/)
+- [NewsBTC](https://www.newsbtc.com/)
+- [Rekt](https://rekt.news/)
 
 ### Additional Learning
 - [Collection of Resources](https://www.hope.com/) from Hope.com (MicroStrategy)
