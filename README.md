@@ -1,12 +1,12 @@
 # Bitcoin
 The following is a collection of notes and learnings that helped me understand Bitcoin. I hope it helps you too :)
 
-## Step Zero: What is Money?
+## What is Money?
 When I first started learning about bitcoin, I found I it helpful to understand the difference between Money & Currency and the history behind them.
 
 [Mike Maloney’s Hidden Secrets of Money](https://goldsilver.com/hidden-secrets/) by Mike Maloney
 
-## Step One: What is bitcoin?
+## What is bitcoin?
 
 ### Bitcoin: A Peer-to-Peer Electronic Cash System
 
@@ -44,7 +44,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - [The Bitcoin Standard Podcast](http://the-bitcoin-standard-podcast.castos.com/) by Dr. Saifedean Ammous
 - [Orange Pill Podcast](https://orangepill.buzzsprout.com/) by Max Keiser & Stacy Herbert
 
-## Step Two: Buy Bitcoin
+## Buy Bitcoin
 - [Shakepay](https://shakepay.me/r/4070CTN) Buy and sell bitcoin with email money transfers from your bank.
 - [Netcoins](https://netcoins.app/r?ac=E3SBQR) Buy and sell bitcoin with email money transfers from your bank.
 - [Coinbase](https://www.coinbase.com/join/cspace) Buy, Sell and Exchange.
@@ -53,4 +53,4 @@ Where it all started. The paper that first introduced Bitcoin.
 - [WealthSimple](https://my.wealthsimple.com/app/public/trade-referral-signup?code=F8AO7W) bitcoin, Stonks and banking services.
 - [BlockFi](https://blockfi.com/?ref=17dcc1e8) Earn interest.
 
-## Step Three: Hodl Bitcoin
+## Hodl Bitcoin
