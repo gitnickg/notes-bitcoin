@@ -5,16 +5,21 @@ The following is a collection of notes and learnings that helped me understand B
 ## Money, Currency and Economics
 When I first started learning about bitcoin, I found it helpful to understand the difference between ***Money*** & ***Currency***, the history behind them and economics.
 
-- [Hidden Secrets of Money](https://goldsilver.com/hidden-secrets/) by Mike Maloney
+### Books
 - [The Soverign Individual: Mastering the Transition to the Information Age](https://www.goodreads.com/book/show/82256.The_Sovereign_Individual) by James Dale Davidson, William Rees-Mogg
 - [Why Gold? Why Now?: The War Against Your Wealth and How to Win it](https://www.goodreads.com/book/show/53685532-why-gold-why-now) by E.B. Tucker
 - [The Price of Tomorrow: Why Deflation is the Key to an Abundant Future](https://www.goodreads.com/book/show/50157837-the-price-of-tomorrow) by Jeff Booth
 - [The Ascent of Money: A Financial History of the World](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) by Niall Ferguson
 - [Basic Economics: A Citizen's Guide to the Economy](https://www.goodreads.com/book/show/3023.Basic_Economics) by Thomas Sowell
 - [Economics in One Lesson](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by Henry Hazlitt
+
+### Sites
+- [Hidden Secrets of Money](https://goldsilver.com/hidden-secrets/) by Mike Maloney
 - [Mises Institute](https://mises.org/) Information on Austrian Economics
 - [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 
+### Articles
+[The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
 
 ## Bitcoin
 
@@ -40,6 +45,12 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Layered Money: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies](https://www.goodreads.com/book/show/56598876-layered-money) by Nik Bhatia
 - [Bitcoin: Sovereignty through mathematics](https://www.goodreads.com/book/show/45901895-bitcoin) by Knut Svanholm
 - [Bitcoin: Hard Money You Can't F*ck With: Why bitcoin will be the next global reserve currency](https://www.goodreads.com/book/show/56174095-bitcoin) by Jason A. Williams
+
+### Articles
+- [Bitcoin and the U.S. Fiscal Recokoning](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning)
+- [Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.](https://www.lynalden.com/bitcoin-energy/)
+- [7 Misconceptions About Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
+- [3 Reasons I’m Investing in Bitcoin](https://www.lynalden.com/invest-in-bitcoin/)
 
 ### Videos
 - [Canadian Senate Testimony on Bitcoin](https://www.cpac.ca/en/programs/in-committee-from-the-senate-of-canada/episodes/35680928/?jwsource=cl) by Andreas M. Antonopoulos
@@ -89,7 +100,7 @@ Exchanges where you can purchase Bitcoin.
 ## Hodl Bitcoin
 
 ### Hardware Wallets
-- [Ledger](https://www.ledger.com/)
+- [Ledger](http://ledger.refr.cc/nickg902)
 - [Trezor](https://trezor.io/)
 - [ColdCard](https://coldcardwallet.com/)
 
