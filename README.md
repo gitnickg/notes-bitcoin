@@ -19,7 +19,7 @@ When I first started learning about bitcoin, I found it helpful to understand th
 - [WTF Happened in 1971?](https://wtfhappenedin1971.com/)
 
 ### Articles
-[The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/)
+[The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/) by Lyn Alden
 
 ## Bitcoin
 
@@ -47,10 +47,10 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Bitcoin: Hard Money You Can't F*ck With: Why bitcoin will be the next global reserve currency](https://www.goodreads.com/book/show/56174095-bitcoin) by Jason A. Williams
 
 ### Articles
-- [Bitcoin and the U.S. Fiscal Recokoning](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning)
-- [Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.](https://www.lynalden.com/bitcoin-energy/)
-- [7 Misconceptions About Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/)
-- [3 Reasons I’m Investing in Bitcoin](https://www.lynalden.com/invest-in-bitcoin/)
+- [Bitcoin and the U.S. Fiscal Recokoning](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning) by National Affairs
+- [Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.](https://www.lynalden.com/bitcoin-energy/) by Lyn Alden
+- [7 Misconceptions About Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/) by Lyn Alden
+- [3 Reasons I’m Investing in Bitcoin](https://www.lynalden.com/invest-in-bitcoin/) by Lyn Alden
 
 ### Videos
 - [Canadian Senate Testimony on Bitcoin](https://www.cpac.ca/en/programs/in-committee-from-the-senate-of-canada/episodes/35680928/?jwsource=cl) by Andreas M. Antonopoulos
