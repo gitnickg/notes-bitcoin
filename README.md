@@ -27,9 +27,16 @@ When I first started learning about bitcoin, I found it helpful to understand th
 
 Where it all started. The paper that first introduced Bitcoin.
 
+### Bitcoin Whitepaper
 - Hosted in this [repo](https://github.com/nickg902/notes-bitcoin/blob/main/bitcoin.pdf)
 - Hosted on [bitcoin.org](https://bitcoin.org/en/bitcoin-paper)
-- [Getting Started with Bitcoin](https://bitcoin.org/en/getting-started)
+- Hosted on [Nakamoto Institute](https://nakamotoinstitute.org/bitcoin/)
+- Hosted on [Square Crypto](https://squarecrypto.org/bitcoin.pdf)
+- Hosted on [Blockstream.com](blockstream.com/bitcoin.pdf)
+- Hosted on [craigwrightisnotsatoshi.com](https://craigwrightisnotsatoshi.com/bitcoin.pdf)
+
+### Sites
+- Getting Started with Bitcoin on [bitcoin.org](https://bitcoin.org/en/getting-started)
 
 ### Books
 - [The Bitcoin Standard](https://www.goodreads.com/book/show/36448501-the-bitcoin-standard) by Saifedean Ammous
