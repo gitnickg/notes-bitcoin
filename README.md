@@ -69,6 +69,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Bitcoin Magazine](https://www.youtube.com/c/BitcoinMagazine)
 - [Unchained Podcast](https://www.youtube.com/c/UnchainedPodcast)
 - [What Bitcoin Did](https://www.youtube.com/c/WhatBitcoinDidPodcast)
+- [Official Certified Bitcoin Professional (CBP) Prep Course](https://www.youtube.com/watch?v=yBd4wR7T1V4) by CryptoCurrency Certification Consortium (C4) and Andreas M. Antonopoulos
 
 ### Podcasts
 - [Bitcoin Audible](https://bitcoinaudible.com/) by Guy Swann
