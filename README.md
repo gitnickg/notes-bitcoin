@@ -88,8 +88,11 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Rekt](https://rekt.news/)
 
 ### Additional Learning
+- [Expain Bitcoin Like I'm Five](https://www.freecodecamp.org/news/explain-bitcoin-like-im-five-73b4257ac833/) from freecodecamp.org
 - [Collection of Resources](https://www.hope.com/) from Hope.com (MicroStrategy)
+- [Collection of Resources](https://www.lopp.net/bitcoin-information.html) from Lopp.net
 - [Free Bitcoin Course](https://learn.saylor.org/course/view.php?id=468) from Saylor.org (MicroStrategy)
+- [Bitcoin Explained](https://www.upfolio.com/ultimate-bitcoin-guide) from Upfolio
 
 ## Buy Bitcoin
 Exchanges where you can purchase Bitcoin.
