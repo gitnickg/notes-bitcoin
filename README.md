@@ -117,3 +117,10 @@ Exchanges where you can purchase Bitcoin.
 ### Software Wallets
 - [Bitcoin.org](https://bitcoin.org/en/choose-your-wallet) Choose your wallet helper
 - [Best Bitcoin Wallets](https://www.youtube.com/watch?v=QKOmyN287_o) by Dan Held
+
+## Run Bitcoin
+
+### Nodes
+- [Umbrel](https://getumbrel.com/)
+- [MyNode](https://mynodebtc.com/)
+- [Bitcoin.org](https://bitcoin.org/en/full-node#what-is-a-full-node)
