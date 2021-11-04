@@ -2,7 +2,7 @@
 The following is a collection of notes and learnings that helped me understand Bitcoin & money. I hope it helps you too :)
 
 
-## Money, Currency and Economics
+## 💰 Money, Currency and Economics
 When I first started learning about bitcoin, I found it helpful to understand the difference between ***Money*** & ***Currency***, the history behind them and economics.
 
 ### Books
@@ -21,7 +21,7 @@ When I first started learning about bitcoin, I found it helpful to understand th
 ### Articles
 [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/) by Lyn Alden
 
-## Bitcoin
+## 🤑 Bitcoin
 
 ### Bitcoin: A Peer-to-Peer Electronic Cash System
 
@@ -35,7 +35,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - Hosted on [Blockstream.com](blockstream.com/bitcoin.pdf)
 - Hosted on [craigwrightisnotsatoshi.com](https://craigwrightisnotsatoshi.com/bitcoin.pdf)
 
-### Sites
+### Getting Started
 - Getting Started with Bitcoin on [bitcoin.org](https://bitcoin.org/en/getting-started)
 
 ### Books
@@ -87,14 +87,17 @@ Where it all started. The paper that first introduced Bitcoin.
 - [NewsBTC](https://www.newsbtc.com/)
 - [Rekt](https://rekt.news/)
 
-### Additional Learning
+### Additional Bitcoin Learning
+- [Bitcoin Explained](https://www.upfolio.com/ultimate-bitcoin-guide) from Upfolio
 - [Expain Bitcoin Like I'm Five](https://www.freecodecamp.org/news/explain-bitcoin-like-im-five-73b4257ac833/) from freecodecamp.org
 - [Collection of Resources](https://www.hope.com/) from Hope.com (MicroStrategy)
 - [Collection of Resources](https://www.lopp.net/bitcoin-information.html) from Lopp.net
 - [Free Bitcoin Course](https://learn.saylor.org/course/view.php?id=468) from Saylor.org (MicroStrategy)
-- [Bitcoin Explained](https://www.upfolio.com/ultimate-bitcoin-guide) from Upfolio
 
-## Buy Bitcoin
+### Additional Blockchain Learning
+- [Blockchain Demo](https://andersbrownworth.com/blockchain/) by Anders Brownworth
+
+## 🛒 Buy Bitcoin
 Exchanges where you can purchase Bitcoin.
 - [Shakepay](https://shakepay.me/r/4070CTN) Buy and sell bitcoin with email money transfers from your bank.
 - [Netcoins](https://netcoins.app/r?ac=E3SBQR) Buy and sell bitcoin with email money transfers from your bank.
@@ -107,7 +110,7 @@ Exchanges where you can purchase Bitcoin.
 - [Kraken](https://www.kraken.com/) Buy, Sell and Exchange.
 
 
-## Hodl Bitcoin
+## 🔐 Hodl Bitcoin
 
 ### Hardware Wallets
 - [Ledger](http://ledger.refr.cc/nickg902)
@@ -118,7 +121,7 @@ Exchanges where you can purchase Bitcoin.
 - [Bitcoin.org](https://bitcoin.org/en/choose-your-wallet) Choose your wallet helper
 - [Best Bitcoin Wallets](https://www.youtube.com/watch?v=QKOmyN287_o) by Dan Held
 
-## Run Bitcoin
+## 💻 Run Bitcoin
 
 ### Nodes
 - [Umbrel](https://getumbrel.com/)
