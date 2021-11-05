@@ -90,13 +90,15 @@ Where it all started. The paper that first introduced Bitcoin.
 
 ### Additional Bitcoin Learning
 - [Bitcoin Explained](https://www.upfolio.com/ultimate-bitcoin-guide) from Upfolio
-- [Expain Bitcoin Like I'm Five](https://www.freecodecamp.org/news/explain-bitcoin-like-im-five-73b4257ac833/) from freecodecamp.org
+- [Explain Bitcoin Like I'm Five](https://www.freecodecamp.org/news/explain-bitcoin-like-im-five-73b4257ac833/) from freecodecamp.org
 - [Collection of Resources](https://www.hope.com/) from Hope.com (MicroStrategy)
 - [Collection of Resources](https://www.lopp.net/bitcoin-information.html) from Lopp.net
 - [Free Bitcoin Course](https://learn.saylor.org/course/view.php?id=468) from Saylor.org (MicroStrategy)
 
 ### Additional Blockchain Learning
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/) by Anders Brownworth
+- [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/video-lectures/) by MIT
+- [Binance Academy](https://academy.binance.com/en) by Binance
 
 ## 🛒 Buy Bitcoin
 Exchanges where you can purchase Bitcoin.
