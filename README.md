@@ -139,4 +139,4 @@ Exchanges where you can purchase Bitcoin.
 - [MinerStat](https://my.minerstat.com/register?ref=464726)
 
 ### Mining Pools
--[unMineable](https://unmineable.com/?ref=m39h-5yao) Get paid in unmineable coins
+- [unMineable](https://unmineable.com/?ref=m39h-5yao) Get paid in unmineable coins
