@@ -130,3 +130,9 @@ Exchanges where you can purchase Bitcoin.
 - [Umbrel](https://getumbrel.com/)
 - [MyNode](https://mynodebtc.com/)
 - [Bitcoin.org](https://bitcoin.org/en/full-node#what-is-a-full-node)
+
+## ⛏ Mining
+
+### Mining Software
+- [HiveOS](https://hiveos.farm?ref=518841)
+- [NiceHash](https://www.nicehash.com/)
