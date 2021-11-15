@@ -135,7 +135,7 @@ Exchanges where you can purchase Bitcoin.
 
 ### Mining Software
 - [HiveOS](https://hiveos.farm?ref=518841)
-- [NiceHash](https://www.nicehash.com/)
+- [NiceHash](https://www.nicehash.com/?refby=29dfb0fb-bca1-4865-ad64-848cbdd0c631)
 - [MinerStat](https://my.minerstat.com/register?ref=464726)
 
 ### Mining Pools
