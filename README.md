@@ -113,7 +113,7 @@ Exchanges where you can purchase bitcoin and programs to earn bitcoin.
 - [Kraken](https://www.kraken.com/) Buy, Sell and Exchange.
 - [Crypto.com](https://crypto.com/app/u4d77ddbbe) Buy, Sell and Exchange.
 - [Fold](https://use.foldapp.com/r/XHU4TULX) Earn bitcoin through giftcard purchases.
-- [CoinMiles](https://use.foldapp.com/r/XHU4TULX) Earn bitcoin through giftcard purchases.
+- [CoinMiles](https://use.foldapp.com/r/XHU4TULX) Earn bitcoin through online purchases.
 
 ## 🔐 Hodl bitcoin
 
