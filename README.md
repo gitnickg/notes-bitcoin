@@ -139,5 +139,9 @@ Exchanges where you can purchase Bitcoin.
 - [NiceHash](https://www.nicehash.com/?refby=29dfb0fb-bca1-4865-ad64-848cbdd0c631)
 - [MinerStat](https://my.minerstat.com/register?ref=464726)
 
-### Mining Pools
+
+# 💩 Not Bitcoin
+There are many other crypto currencies out there, some focused on real world issues and other focused on memes. DYOR = Do Your Own Research.
+
+## ⛏ Mining
 - [unMineable](https://unmineable.com/?ref=m39h-5yao) Get paid in unmineable coins
