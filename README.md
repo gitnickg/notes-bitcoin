@@ -135,13 +135,16 @@ Exchanges where you can purchase Bitcoin.
 ## ⛏ Mining
 
 ### Mining Software
-- [HiveOS](https://hiveos.farm?ref=518841)
-- [NiceHash](https://www.nicehash.com/?refby=29dfb0fb-bca1-4865-ad64-848cbdd0c631)
-- [MinerStat](https://my.minerstat.com/register?ref=464726)
+- [HiveOS](https://hiveos.farm?ref=518841) Linux based operating system
+- [NiceHash](https://www.nicehash.com/?refby=29dfb0fb-bca1-4865-ad64-848cbdd0c631) Linux based operating system
+- [MinerStat](https://my.minerstat.com/register?ref=464726) Linux based operating system
+- [2cryptocalc](https://2cryptocalc.com/mining-software) Mining software comparison
 
 
 # 💩 Not Bitcoin
 There are many other crypto currencies out there, some focused on real world issues and other focused on memes. DYOR = Do Your Own Research.
 
 ## ⛏ Mining
+
+### Mining Pools
 - [unMineable](https://unmineable.com/?ref=m39h-5yao) Get paid in unmineable coins
