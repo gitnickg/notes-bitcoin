@@ -70,6 +70,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Unchained Podcast](https://www.youtube.com/c/UnchainedPodcast)
 - [What Bitcoin Did](https://www.youtube.com/c/WhatBitcoinDidPodcast)
 - [Official Certified Bitcoin Professional (CBP) Prep Course](https://www.youtube.com/watch?v=yBd4wR7T1V4) by CryptoCurrency Certification Consortium (C4) and Andreas M. Antonopoulos
+- [The Essence of How Bitcoin Works (Non-Technical)](https://www.youtube.com/watch?v=t5JGQXCTe3c)
 
 ### Podcasts
 - [Bitcoin Audible](https://bitcoinaudible.com/) by Guy Swann
@@ -94,6 +95,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Collection of Resources](https://www.hope.com/) from Hope.com (MicroStrategy)
 - [Collection of Resources](https://www.lopp.net/bitcoin-information.html) from Lopp.net
 - [Free Bitcoin Course](https://learn.saylor.org/course/view.php?id=468) from Saylor.org (MicroStrategy)
+- [Bitcoin and Cryptocurrencies](https://learning.edx.org/course/course-v1:BerkeleyX+CS198.1x+3T2019/home) by EdX - Berkeley
 
 ### Additional Blockchain Learning
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/) by Anders Brownworth
