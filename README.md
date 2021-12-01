@@ -4,7 +4,7 @@ The following is a collection of notes and learnings that helped me understand B
 <p align="center"><img src="https://github.com/nickg902/notes-bitcoin/blob/main/resources-pictures/hayek.PNG" /></p>
 
 
-## 💰 Money, Currency and Economics
+## 💰 Money, Currency and Economics 💰
 When I first started learning about bitcoin, I found it helpful to understand the difference between ***Money*** & ***Currency***, the history behind them and economics.
 
 ### Books
@@ -24,7 +24,7 @@ When I first started learning about bitcoin, I found it helpful to understand th
 [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/) by Lyn Alden
 
 
-## ✌ Bitcoin
+## ✌ Bitcoin ✌
 
 ### Bitcoin: A Peer-to-Peer Electronic Cash System
 
@@ -108,7 +108,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/video-lectures/) by MIT
 - [Binance Academy](https://academy.binance.com/en) by Binance
 
-## 🛒 Buy & Earn bitcoin
+## 🛒 Buy & Earn bitcoin 🛒
 Exchanges where you can purchase bitcoin and programs to earn bitcoin.
 - [Shakepay](https://shakepay.me/r/4070CTN) 🍁 Buy and sell bitcoin with email money transfers.
 - [Netcoins](https://netcoins.app/r?ac=E3SBQR) 🍁 Buy and sell bitcoin with email money transfers.
@@ -123,7 +123,7 @@ Exchanges where you can purchase bitcoin and programs to earn bitcoin.
 - [Fold](https://use.foldapp.com/r/XHU4TULX) Earn bitcoin through giftcard purchases.
 - [CoinMiles](https://use.foldapp.com/r/XHU4TULX) 🍁 Earn bitcoin through online purchases.
 
-## 🔐 Hodl bitcoin
+## 🔐 Hodl bitcoin 🔐
 
 ### Hardware Wallets
 - [Ledger](http://ledger.refr.cc/nickg902)
@@ -134,14 +134,14 @@ Exchanges where you can purchase bitcoin and programs to earn bitcoin.
 - [Bitcoin.org](https://bitcoin.org/en/choose-your-wallet) Choose your wallet helper
 - [Best Bitcoin Wallets](https://www.youtube.com/watch?v=QKOmyN287_o) by Dan Held
 
-## 💻 Run Bitcoin
+## 💻 Run Bitcoin 💻
 
 ### Nodes
 - [Umbrel](https://getumbrel.com/)
 - [MyNode](https://mynodebtc.com/)
 - [Bitcoin.org](https://bitcoin.org/en/full-node#what-is-a-full-node)
 
-## ⛏ Mining
+## ⛏ Mining ⛏
 
 ### Mining Software
 - [HiveOS](https://hiveos.farm?ref=518841) Linux based operating system
@@ -150,10 +150,10 @@ Exchanges where you can purchase bitcoin and programs to earn bitcoin.
 - [2cryptocalc](https://2cryptocalc.com/mining-software) Mining software comparison
 
 
-# 💩 Not Bitcoin
+# 💩 Not Bitcoin 💩
 There are many other crypto currencies out there, some focused on real world issues and other focused on memes. DYOR = Do Your Own Research.
 
-## ⛏ Mining
+## ⛏ Mining ⛏
 
 ### Mining Pools
 - [unMineable](https://unmineable.com/?ref=m39h-5yao) Get paid in unmineable coins
