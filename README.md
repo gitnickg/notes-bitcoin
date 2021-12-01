@@ -1,13 +1,7 @@
 # Bitcoin & Money
 The following is a collection of notes and learnings that helped me understand Bitcoin & money. I hope it helps you too :)
 
-
 <p align="center"><img src="https://github.com/nickg902/notes-bitcoin/blob/main/resources-pictures/hayek.PNG" /></p>
-
-<div style="text-align:center"><img src="https://github.com/nickg902/notes-bitcoin/blob/main/resources-pictures/hayek.PNG" /></div>
-
-![F.A. Hayek](https://github.com/nickg902/notes-bitcoin/blob/main/resources-pictures/hayek.PNG?raw=true)
-
 
 ## 💰 Money, Currency and Economics
 When I first started learning about bitcoin, I found it helpful to understand the difference between ***Money*** & ***Currency***, the history behind them and economics.
