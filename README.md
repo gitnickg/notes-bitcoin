@@ -3,6 +3,7 @@ The following is a collection of notes and learnings that helped me understand B
 
 <p align="center"><img src="https://github.com/nickg902/notes-bitcoin/blob/main/resources-pictures/hayek.PNG" /></p>
 
+
 ## 💰 Money, Currency and Economics
 When I first started learning about bitcoin, I found it helpful to understand the difference between ***Money*** & ***Currency***, the history behind them and economics.
 
@@ -21,6 +22,7 @@ When I first started learning about bitcoin, I found it helpful to understand th
 
 ### Articles
 [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/) by Lyn Alden
+
 
 ## 🤑 Bitcoin
 
