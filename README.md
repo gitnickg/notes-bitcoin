@@ -24,7 +24,7 @@ When I first started learning about bitcoin, I found it helpful to understand th
 [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/) by Lyn Alden
 
 
-## 🤑 Bitcoin
+## ✌ Bitcoin
 
 ### Bitcoin: A Peer-to-Peer Electronic Cash System
 
