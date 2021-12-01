@@ -84,6 +84,8 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Magic Internet Money - Bitcoin 101 With Brad Mills](https://magicinternetmoney.libsyn.com/website) by Brad Mills
 - [The Bitcoin Standard Podcast](http://the-bitcoin-standard-podcast.castos.com/) by Dr. Saifedean Ammous
 - [Orange Pill Podcast](https://orangepill.buzzsprout.com/) by Max Keiser & Stacy Herbert
+- [The Stephan Livera Podcast](https://stephanlivera.com/) by Stephan Livera
+- [The Bitcoin Magazine Podcast](https://bitcoinmagazine.com/tags/bitcoin-magazine-podcast) by Bitcoin Magazine
 
 ### News
 - [Bitcoin Magazine](https://bitcoinmagazine.com/)
@@ -99,6 +101,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Collection of Resources](https://www.lopp.net/bitcoin-information.html) from Lopp.net
 - [Free Bitcoin Course](https://learn.saylor.org/course/view.php?id=468) from Saylor.org (MicroStrategy)
 - [Bitcoin and Cryptocurrencies](https://learning.edx.org/course/course-v1:BerkeleyX+CS198.1x+3T2019/home) by EdX - Berkeley
+- [21 Days of bitcoin](https://mailchi.mp/bitcoinmagazine/21-days-of-bitcoin-reserve-a-seat) by Bitcoin Magazine
 
 ### Additional Blockchain Learning
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/) by Anders Brownworth
