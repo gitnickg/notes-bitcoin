@@ -58,7 +58,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - [The Little Bitcoin Book](https://littlebitcoinbook.com/)
 
 ### Articles
-- [Bitcoin and the U.S. Fiscal Recokoning](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning) by National Affairs
+- [Bitcoin and the U.S. Fiscal Reckoning](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning) by National Affairs
 - [Bitcoin’s Energy Usage Isn’t a Problem. Here’s Why.](https://www.lynalden.com/bitcoin-energy/) by Lyn Alden
 - [7 Misconceptions About Bitcoin](https://www.lynalden.com/misconceptions-about-bitcoin/) by Lyn Alden
 - [3 Reasons I’m Investing in Bitcoin](https://www.lynalden.com/invest-in-bitcoin/) by Lyn Alden
