@@ -154,7 +154,7 @@ Exchanges where you can purchase bitcoin and programs to earn bitcoin.
 
 
 # 💩 Not Bitcoin 💩
-There are many other crypto currencies out there, some focused on real world issues and other focused on memes. DYOR = Do Your Own Research.
+There are many other crypto currencies out there, some focused on real world issues and others focused on memes. DYOR = Do Your Own Research.
 
 ## ⛏ Mining ⛏
 
@@ -162,4 +162,4 @@ There are many other crypto currencies out there, some focused on real world iss
 - [unMineable](https://unmineable.com/?ref=m39h-5yao) Get paid in unmineable coins
 
 ## 🎮 Gaming 🎮
-- [The Sandbox](https://www.sandbox.game/login/?r=9SR95OqzJHAbajtQWMNBO)
+- [The Sandbox](https://www.sandbox.game/login/?r=9SR95OqzJHAbajtQWMNBO) Metaverse gaming.
