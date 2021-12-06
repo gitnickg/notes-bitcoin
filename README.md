@@ -55,6 +55,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Layered Money: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies](https://www.goodreads.com/book/show/56598876-layered-money) by Nik Bhatia
 - [Bitcoin: Sovereignty through mathematics](https://www.goodreads.com/book/show/45901895-bitcoin) by Knut Svanholm
 - [Bitcoin: Hard Money You Can't F*ck With: Why bitcoin will be the next global reserve currency](https://www.goodreads.com/book/show/56174095-bitcoin) by Jason A. Williams
+- [The Little Bitcoin Book](https://www.notion.so/littlebitcoinbook/The-Little-Bitcoin-Book-86861255b9b84128b2633efbb73bbd36)
 
 ### Articles
 - [Bitcoin and the U.S. Fiscal Recokoning](https://nationalaffairs.com/publications/detail/bitcoin-and-the-us-fiscal-reckoning) by National Affairs
@@ -102,6 +103,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Free Bitcoin Course](https://learn.saylor.org/course/view.php?id=468) from Saylor.org (MicroStrategy)
 - [Bitcoin and Cryptocurrencies](https://learning.edx.org/course/course-v1:BerkeleyX+CS198.1x+3T2019/home) by EdX - Berkeley
 - [21 Days of bitcoin](https://mailchi.mp/bitcoinmagazine/21-days-of-bitcoin-reserve-a-seat) by Bitcoin Magazine
+- [Hello Bitcoin](https://hellobitco.in/)
 
 ### Additional Blockchain Learning
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/) by Anders Brownworth
