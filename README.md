@@ -23,6 +23,8 @@ When I first started learning about bitcoin, I found it helpful to understand th
 ### Articles
 [The Fraying of the US Global Currency Reserve System](https://www.lynalden.com/fraying-petrodollar-system/) by Lyn Alden
 
+### Videos
+- [Richard Werner: Today's Source of Money Creation](https://www.youtube.com/watch?v=IzE038REw2k) by The Monetary Institute's "Our Money, Our Banks, Our Country - Money Creation in the Modern Economy" conference - Zurich, Switzerland on February 5, 2018.
 
 ## ✌ Bitcoin ✌
 
