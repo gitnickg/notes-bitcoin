@@ -14,6 +14,7 @@ When I first started learning about bitcoin, I found it helpful to understand th
 - [The Ascent of Money: A Financial History of the World](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) by Niall Ferguson
 - [Basic Economics: A Citizen's Guide to the Economy](https://www.goodreads.com/book/show/3023.Basic_Economics) by Thomas Sowell
 - [Economics in One Lesson](https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson) by Henry Hazlitt
+- [Princes of the Yen](https://www.goodreads.com/book/show/2969660-princes-of-the-yen) by Richard Werner
 
 ### Sites
 - [Hidden Secrets of Money](https://goldsilver.com/hidden-secrets/) by Mike Maloney
@@ -25,6 +26,9 @@ When I first started learning about bitcoin, I found it helpful to understand th
 
 ### Videos
 - [Richard Werner: Today's Source of Money Creation](https://www.youtube.com/watch?v=IzE038REw2k) by The Monetary Institute's "Our Money, Our Banks, Our Country - Money Creation in the Modern Economy" conference - Zurich, Switzerland on February 5, 2018.
+
+### Documentaries
+- [Princes of the Yen: Central Banks and the Transformation of the Economy](https://www.youtube.com/watch?v=p5Ac7ap_MAY) by Michael Oswald, based on Richard Werner's book.
 
 ## ✌ Bitcoin ✌
 
