@@ -108,10 +108,6 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Hello Bitcoin](https://hellobitco.in/)
 - [Bitcoin Learning Center](https://river.com/learn/) by River Financial
 
-### Additional Blockchain Learning
-- [Blockchain Demo](https://andersbrownworth.com/blockchain/) by Anders Brownworth
-- [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/video-lectures/) by MIT
-- [Binance Academy](https://academy.binance.com/en) by Binance
 
 ## 🛒 Buy & Earn bitcoin 🛒
 Exchanges where you can purchase bitcoin and programs to earn bitcoin.
@@ -165,3 +161,11 @@ There are many other crypto currencies out there, some focused on real world iss
 
 ## 🎮 Gaming 🎮
 - [The Sandbox](https://www.sandbox.game/login/?r=9SR95OqzJHAbajtQWMNBO) Metaverse gaming.
+
+# ⛓ Blockchain ⛓
+The technology behind Bitcoin and other cryptocurrencies.
+
+### Additional Blockchain Learning Resources
+- [Blockchain Demo](https://andersbrownworth.com/blockchain/) by Anders Brownworth
+- [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/video-lectures/) by MIT
+- [Binance Academy](https://academy.binance.com/en) by Binance
