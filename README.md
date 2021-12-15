@@ -108,7 +108,7 @@ Where it all started. The paper that first introduced Bitcoin.
 - [Collection of Resources](https://www.lopp.net/bitcoin-information.html) from Lopp.net
 - [Free Bitcoin Course](https://learn.saylor.org/course/view.php?id=468) from Saylor.org (MicroStrategy)
 - [Bitcoin and Cryptocurrencies](https://learning.edx.org/course/course-v1:BerkeleyX+CS198.1x+3T2019/home) by EdX - Berkeley
-- [21 Days of bitcoin](https://mailchi.mp/bitcoinmagazine/21-days-of-bitcoin-reserve-a-seat) by Bitcoin Magazine
+- [21 Days of bitcoin](https://sparklp.co/ad7d3be1?source=email&email=email_26159f774e) by Bitcoin Magazine
 - [Hello Bitcoin](https://hellobitco.in/)
 - [Bitcoin Learning Center](https://river.com/learn/) by River Financial
 
