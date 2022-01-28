@@ -27,6 +27,7 @@ When I first started learning about bitcoin, I found it helpful to understand th
 
 ### Videos
 - [Richard Werner: Today's Source of Money Creation](https://www.youtube.com/watch?v=IzE038REw2k) by The Monetary Institute's "Our Money, Our Banks, Our Country - Money Creation in the Modern Economy" conference - Zurich, Switzerland on February 5, 2018.
+- [Gold & Dollar: How Money Became Worthless](https://youtu.be/bgPDW0ZpgJU)
 
 ### Documentaries
 - [Princes of the Yen: Central Banks and the Transformation of the Economy](https://www.youtube.com/watch?v=p5Ac7ap_MAY) by Michael Oswald, based on Richard Werner's book.
@@ -85,6 +86,10 @@ Where it all started. The paper that first introduced Bitcoin.
 - [What Bitcoin Did](https://www.youtube.com/c/WhatBitcoinDidPodcast)
 - [Official Certified Bitcoin Professional (CBP) Prep Course](https://www.youtube.com/watch?v=yBd4wR7T1V4) by CryptoCurrency Certification Consortium (C4) and Andreas M. Antonopoulos
 - [The Essence of How Bitcoin Works (Non-Technical)](https://www.youtube.com/watch?v=t5JGQXCTe3c)
+- [The Great Reset and the Rise of Bitcoin](https://youtu.be/xw9VshkgxJ4)
+- [Cryptopia](https://youtu.be/l5TqlnD1ZSI)
+- [The Rise and Rise of Bitcoin](https://youtu.be/qk4gZrBR9CU)
+- [Bitcoin: The End Of Money As We Know It](https://youtu.be/yz8ymvqUMrU)
 
 ### Podcasts
 - [Bitcoin Audible](https://bitcoinaudible.com/) by Guy Swann
