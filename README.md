@@ -177,8 +177,9 @@ There are many other crypto currencies out there, some focused on real world iss
 ## 🎮 Gaming 🎮
 - [The Sandbox](https://www.sandbox.game/login/?r=9SR95OqzJHAbajtQWMNBO) Metaverse gaming.
 
+
 # ⛓ Blockchain ⛓
-The technology behind Bitcoin and other cryptocurrencies.
+A piece of the technology behind Bitcoin and other cryptocurrencies.
 
 ### Additional Blockchain Learning Resources
 - [Blockchain Demo](https://andersbrownworth.com/blockchain/) by Anders Brownworth
