@@ -86,6 +86,8 @@ Where it all started. The paper that first introduced Bitcoin.
 - [What Bitcoin Did](https://www.youtube.com/c/WhatBitcoinDidPodcast)
 - [Official Certified Bitcoin Professional (CBP) Prep Course](https://www.youtube.com/watch?v=yBd4wR7T1V4) by CryptoCurrency Certification Consortium (C4) and Andreas M. Antonopoulos
 - [The Essence of How Bitcoin Works (Non-Technical)](https://www.youtube.com/watch?v=t5JGQXCTe3c)
+
+### Documentaries
 - [The Great Reset and the Rise of Bitcoin](https://youtu.be/xw9VshkgxJ4)
 - [Cryptopia](https://youtu.be/l5TqlnD1ZSI)
 - [The Rise and Rise of Bitcoin](https://youtu.be/qk4gZrBR9CU)
