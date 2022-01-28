@@ -1,5 +1,5 @@
-# Bitcoin & Money
-The following is a collection of notes and learnings that helped me understand Bitcoin & money. I hope it helps you too :)
+# bitcoin & Money
+The following is a collection of notes and learnings that helped me understand money & bitcoin. I hope it helps you too :)
 
 <p align="center"><img src="https://github.com/nickg902/notes-bitcoin/blob/main/resources-pictures/hayek.PNG" /></p>
 
