@@ -136,7 +136,7 @@ Exchanges where you can purchase bitcoin and programs to earn bitcoin.
 ## 🔐 Hodl bitcoin 🔐
 
 ### Hardware Wallets
-- [Ledger](http://ledger.refr.cc/nickg902)
+- [Ledger](http://ledger.refr.cc/nickname)
 - [Trezor](https://trezor.io/)
 - [ColdCard](https://coldcardwallet.com/)
 
