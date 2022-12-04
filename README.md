@@ -128,10 +128,7 @@ Where it all started. The paper that first introduced Bitcoin.
 Exchanges where you can purchase bitcoin and programs to earn bitcoin.
 - [WealthSimple](https://my.wealthsimple.com/app/public/trade-referral-signup?code=F8AO7W) 🍁 bitcoin, stonks and banking services.
 - [Shakepay](https://shakepay.me/r/4070CTN) 🍁 Buy and sell bitcoin with email money transfers.
-- [Netcoins](https://netcoins.app/r?ac=E3SBQR) 🍁 Buy and sell bitcoin with email money transfers.
-- [Coinsquare](https://coinsquare.com/) 🍁 Buy and sell bitcoin with email money transfers.
 - [Gemini](https://www.gemini.com/share/enwk9gxue) Buy, Sell and Exchange.
-- [CoinMiles](https://use.foldapp.com/r/XHU4TULX) 🍁 Earn bitcoin through online purchases.
 
 ## 🔐 Hodl bitcoin 🔐
 
